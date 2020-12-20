@@ -12,7 +12,7 @@ Contains ***submission.csv*** which has all the predicted data after training th
 A JSON file which contains the link of the Random Forest Regression Model that we trained and saved. The Model is 1.22 GB and hence was linked instead of directly being uploaded on GitHub.
 <br/>
 # Sales Forecasting Machine Learning.ipynb
-### This NoteBook contains all the code for Data Analysis, Traning, Tuning and Testing in a proper order.
+### This NoteBook contains all the code for Data Analysis, Training, Tuning and Testing in a proper order.
 <br/>
 
 ## Data Set Description
