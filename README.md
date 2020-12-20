@@ -2,16 +2,16 @@
 Sales Forecasting using Machine Learning Techniques
 <br/>
 <br/>
-# Kaggle Folder
+# 1. Kaggle Folder
 The Kaggle folder contains the input dataset
 <br/>
-# Predicted Data Folder
+# 2. Predicted Data Folder
 Contains ***submission.csv*** which has all the predicted data after training the model
 <br/>
-# savedModels.json
+# 3. savedModels.json
 A JSON file which contains the link of the Random Forest Regression Model that we trained and saved. The Model is 1.22 GB and hence was linked instead of directly being uploaded on GitHub.
 <br/>
-# Sales Forecasting Machine Learning.ipynb
+# 4. Sales Forecasting Machine Learning.ipynb
 ### This NoteBook contains all the code for Data Analysis, Training, Tuning and Testing in a proper order.
 <br/>
 
