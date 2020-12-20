@@ -46,4 +46,4 @@ For convenience, the four holidays fall within the following weeks in the datase
 
 ## Weighted Mean Absolute Error
 The models would be evaluated on the weighted mean absolute error (WMAE):\
-<img src="https://latex.codecogs.com/gif.latex?WMAE&space;=&space;\frac{1}{\sum&space;w_{i}}\sum_{i=1}^{n}w_{i}\left&space;|&space;y_{i}&space;-&space;\widehat{y_{i}}&space;\right&space;|" title="WMAE = \frac{1}{\sum w_{i}}\sum_{i=1}^{n}w_{i}\left | y_{i} - \widehat{y_{i}} \right |" />
+<img src="https://latex.codecogs.com/gif.latex?\huge&space;WMAE&space;=&space;\frac{1}{\sum&space;w_{i}}\sum_{i=1}^{n}w_{i}\left&space;|&space;y_{i}&space;-&space;\widehat{y_{i}}&space;\right&space;|" title="\huge WMAE = \frac{1}{\sum w_{i}}\sum_{i=1}^{n}w_{i}\left | y_{i} - \widehat{y_{i}} \right |" />
